@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Salunke
 - Freelancer 
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning ReactJs, MongoDB , Data Analytics.
+- 🌱 I’m currently learning Spark, Airflow , Azure Services.
 - 📫 How to reach me yashsalunke555@gmail.com
 
 
