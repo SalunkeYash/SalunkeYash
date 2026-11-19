@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Salunke
-- Freelancer 
+- Software Developer
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Spark, Airflow , Azure Services.
 - 📫 How to reach me yashsalunke555@gmail.com
